@@ -8,6 +8,6 @@ public class TestController {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Welcome to my Server";
+		return "Deploy Complete";
 	}
 }
